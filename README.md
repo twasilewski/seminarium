@@ -1,7 +1,8 @@
-Spis tresci
+#Opis silnika renderujacego stworzonego w technologii OpenGL
 
-1. Wstęp.
+##Spis tresci
 
+1.Wstęp.
 2. Pojecie renderingu i silnika renderujacego.
 3. Krotki opis OpenGL.
 4. Omowienie podstawowych elementow objektu graficznego.
@@ -13,7 +14,7 @@ Spis tresci
 10.Bibliografia
 
 
-Wstęp
+##Wstęp
 
 Renderowanie graficzne to proces polegający na przetwarzaniu informacji o położeniu punktów i płaszczyzn zapisanych w pliku na postać graficzną wyswietlaną na monitorze.
 
