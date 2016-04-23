@@ -3,14 +3,23 @@
 ##Spis tresci
 
 1.Wstęp.
+
 2. Pojecie renderingu i silnika renderujacego.
+
 3. Krotki opis OpenGL.
+
 4. Omowienie podstawowych elementow objektu graficznego.
+
 5. Zagadnienie przedstawiania objektow trojwymiarowych na plaskiej plaszczyznie.
+
 6. Proces interpretacji pliku “obj”.
+
 7. Animator i ruch renderowanego obiektu.
+
 8. Oswietlenie obiektu.
+
 9. Omowienie roznic pomiedzy OpenGL, a DirectX.
+
 10.Bibliografia
 
 
