@@ -55,37 +55,11 @@ Rzut perspektywistyczny
 
 Rzut prostokątny:
 
-	Odwzorowanie punktu w trójwymiarowej przestrzeni poprzez rzutowanie prostopadłych prowadzacych do rzutni.
+Odwzorowanie punktu w trójwymiarowej przestrzeni poprzez rzutowanie prostopadłych prowadzacych do rzutni.
 
 Dla kazdego punktu w przestrzeni przeprowadzane jest nastepujące mnożenie macierzy:
 
 
-1
-0
-0
-
-
-Vx
-
-
-Vx
-0
-1
-0
-
-
-Vy
-=
-Vy
-0
-0
-1
-
-
-Vz
-
-
-Vz
 
 
 
@@ -97,50 +71,6 @@ Rzut perspektywiczny:
 W odróżnieniu od rzutu prostokątnego, rzut perspektywiczny dodatkowo uwzględnia perspektywę obserwatora, co skutkuje wygenerowaniem bardziej realistycznego obrazu, w którym…..
 
 Do rzutowania obiektu 3D wykorzystywany jest wzór:
-
-
-
-
-
-
-1
-0
--(ex/ez) 
-0
-
-
-Vx
-
-
-Vx
-0
-1
--(ey/ez)
-0
-
-
-Vy
-=
-Vy
-0
-0
-1
-0
-
-
-Vz
-0
-0
-0
-0
-1
-
-
-1
-
-
-0
-
 
 
 
