@@ -192,8 +192,7 @@ Plik jest podzielony na sekcje, kazda jest odpowiedzialna za przedstawienie inne
 
 Przykladowy plik przedstawiajacy szescian:
 
-# Blender v2.73 (sub 0) OBJ File: ''
-# www.blender.org
+
 o Cube
 v 1.000000 -1.000000 -1.000000
 v 1.000000 -1.000000 1.000000
